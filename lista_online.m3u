@@ -1,0 +1,17 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-logo="https://lut.im/8vKdYbyXez/OVc98UkvjPozTTS5.png" group-title="CANAL ABERTO", E-PARANÃ
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/4Wl7FY" group-title="WEB TV",TV UFG
+http://flash.softhost.com.br:1935/ufg/tvufgweb/live.m3u8
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/725bwr9v1/Euronews_Espa_ol.jpg" group-title="NOTÃCIAS" EURONEWS ESPANHA
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/45iawh419/Euronews_Portugal.jpg" group-title="NOTÃCIAS",EURONEWS PORTUGAL
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_pt.m3u8
+#EXTINF:-1 tvg-logo="https://www.earthhour.org/sites/default/files/euronews-logo.png" group-title="ESPANHOL", EURONEWS ES
+http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/euronews_ewns/24-live.m3u8
+#EXTINF:-1 tvg-logo="https://www.earthhour.org/sites/default/files/euronews-logo.png" group-title="PORTUGAL", EURONEWS PT
+http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/euronews_ewns/29-live.m3u8
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/drbvcrv71/Euronews_Germany.jpg" group-title="NOTÃCIAS",EURONEWS GERMANY
+http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/14-live.m3u8
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/lgw1ti6jx/TV_Brasil.png" group-title="TV Aberta",TV BRASIL HD
+http://liveabr2.sambatech.com.br/abr/tvtabr_56fc38e9793ca9941f5203fab6e01263/livestream.m3u8
