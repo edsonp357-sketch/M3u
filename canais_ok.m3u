@@ -1,0 +1,22 @@
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/lgw1ti6jx/TV_Brasil.png" group-title="TV Aberta",TV BRASIL HD 
+http://liveabr2.sambatech.com.br/abr/tvtabr_56fc38e9793ca9941f5203fab6e01263/livestream.m3u8
+#EXTINF:-1 tvg-logo="http://s16.postimg.org/axul05l4l/TV_Paran.jpg" group-title="TV Aberta",TV PARANÁ 
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1 tvg-logo="https://lut.im/nAKOTQRi7f/LsbdLvntn6zXlm9J.png" group-title="CANAL ABERTO", TVE RS 
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lut.im/8vKdYbyXez/OVc98UkvjPozTTS5.png" group-title="CANAL ABERTO", E-PARANÁ 
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/G7hM3f" group-title="RELIGIOSOSs",TV TERCEIRO ANJO 
+http://streamer1.streamhost.org:1935/salive/GMI3anjoh/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://s32.postimg.org/7wouj3pht/multishow.png" group-title="GloboSat",MULTISHOW 
+http://m3u.me/baP
+#EXTINF:-1 tvg-logo="https://goo.gl/72OLB7", RETRO MUSIC HD 
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/fVVy1W", DJING HD 
+http://www.djing.com/tv/01.m3u8
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/4i8o6fouh/DHING.jpg" group-title="MÚSICAs",DJ HITS 
+http://www.djing.com/tv/04.m3u8
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/4v476zfkd/eimaxx.png" group-title="Esportes", EI MAX HD 
+http://m3u.me/ba0
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/xm10x1le5/eimaxx2.png" group-title=" group-title="ESPORTES", EI MAXX 02 
+http://m3u.me/bbw
