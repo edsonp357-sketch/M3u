@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Ge TV HD" tvg-name="Ge TV HD" tvg-logo="https://i.imgur.com/TnHuVPZ.png" group-title="Canais | ESPORTES", Ge TV HD (SamsungTV)
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/720p-vtt/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qSC5fSZ.png" group-title="Canais | INFANTIL", Kuriakos Kids
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
@@ -20,7 +19,6 @@ https://dfr80qz435crc.cloudfront.net/IJKL/Amagi/Samsung/ATerraPrometida_BR/ATerr
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oyShsQU.png" group-title="Canais | ABERTO",AgitoMax
 https://stmv2.samcast.com.br/agitomax/agitomax/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ev3SsBX.png" group-title="Canais | ABERTO",AmazonSat
-https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8?ManoTV
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | ANIMES & GEEK",Animax
 https://stream.ichibantv.com:3547/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://assimeportugal.com/wp-content/uploads/2020/10/lg-assim-01.png" group-title="Canais | INTERNACIONAL",Assim é Portugal | Brasil
@@ -42,7 +40,6 @@ https://image-storage-51.imgcontent.xyz/live/bbb26/index.m3u8
 #EXTINF:-1 tvg-id="Acompanhe a casa 2" tvg-name="Acompanhe a casa 2" tvg-logo="https://i.imgur.com/dQv8BSS.png" group-title="Canais | REALITY",Cam 2 EXTRA
 https://image-storage-51.imgcontent.xyz/live/bbb26-2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LMeLMRn.png" group-title="Canais | ABERTO",Canal Educação
-https://canaleducacao-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9KwUxmX.png" group-title="Canais | NOTÍCIAS",Canal GOV
 https://canalgov-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z49TV0y.png" group-title="Canais | ABERTO",Canção Nova Portugal
@@ -52,7 +49,6 @@ https://srv4.zcast.com.br/keynni2406/keynni2406/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BJVNmJv.png" group-title="Canais | ABERTO",CATVE 2
 https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8
 #EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://i.imgur.com/wKpiAOj.png" group-title="Canais | ABERTO",CATVE TV Cultura HD
-http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?ManoTV
 #EXTINF:-1 tvg-id="Cazé TV" tvg-name="Cazé TV" tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="Canais | ESPORTES",Cazé TV FHD
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 #EXTINF:-1 tvg-id="Cazé TV" tvg-name="Cazé TV" tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="Canais | ESPORTES",Cazé TV HD
@@ -419,3 +415,4 @@ https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist_w1264551258.m3u8
 https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/WPT/World_Poker_Tour_BR/World_Poker_Tour.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NwIolMu.png" group-title="Canais | ABERTO",WTV Brasil
 https://stmv7.samcast.com.br/wtvbrasil/wtvbrasil/playlist.m3u8
+
