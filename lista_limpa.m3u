@@ -1,33 +1,8 @@
 #EXTM3U
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/720p-vtt/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qSC5fSZ.png" group-title="Canais | INFANTIL", Kuriakos Kids
-https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5HoOtda.png" group-title="Canais | ABERTO", TV Imaculada
-https://caikron.com.br:19360/tvmi/tvmi.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/oWwYGI1.png" group-title="Canais | ABERTO", Wtj TV Minas
-https://video02.logicahost.com.br/wtjtvminas/wtjtvminas/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/3AbUT8O.png" group-title="Canais | ABERTO", XTREME TV
-https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://nVFiftB.png" group-title="Canais | ABERTO", Ypê TV
-https://video01.logicahost.com.br/ypetv/ypetv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B1KhZs2.png" group-title="Canais | NOTÍCIAS",4 POR 4
-https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/851wj7w.png" group-title="Canais | NOVELAS",A Escrava_Isaura
-https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Samsung/A_Escrava_Isaura_BR/A_Escrava_Isaura.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iB1K7Xk.png" group-title="Canais | NOVELAS",A Terra Prometica
-https://dfr80qz435crc.cloudfront.net/IJKL/Amagi/Samsung/ATerraPrometida_BR/ATerraPrometida.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oyShsQU.png" group-title="Canais | ABERTO",AgitoMax
-https://stmv2.samcast.com.br/agitomax/agitomax/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ev3SsBX.png" group-title="Canais | ABERTO",AmazonSat
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | ANIMES & GEEK",Animax
-https://stream.ichibantv.com:3547/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="https://assimeportugal.com/wp-content/uploads/2020/10/lg-assim-01.png" group-title="Canais | INTERNACIONAL",Assim é Portugal | Brasil
-https://video04.logicahost.com.br/assimeportugal/assimeportugal/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/zxFbtNi.png" group-title="Canais | ABERTO",AW TV
 https://awtv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="BAND HD" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band Arapuan HD
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L6mLyhD.png" group-title="Canais | ESPORTES",Barça One
 https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist_fc18f0fd_2d126755.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d2qdM76.png" group-title="RÁDIO",Brado Rádio
 https://servidor17-5.brlogic.com:8300/live?source=links_page
@@ -415,4 +390,5 @@ https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist_w1264551258.m3u8
 https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/WPT/World_Poker_Tour_BR/World_Poker_Tour.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NwIolMu.png" group-title="Canais | ABERTO",WTV Brasil
 https://stmv7.samcast.com.br/wtvbrasil/wtvbrasil/playlist.m3u8
+
 
