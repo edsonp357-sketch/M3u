@@ -1,9 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgur.com/3AbUT8O.png" group-title="Canais | ABERTO", XTREME TV
-https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://nVFiftB.png" group-title="Canais | ABERTO", Ypê TV
-https://video01.logicahost.com.br/ypetv/ypetv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/C09Ybxn.png" group-title="ATUALIZADO",15/02/2026
 https://abre.ai/manotv8mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B1KhZs2.png" group-title="Canais | NOTÍCIAS",4 POR 4
 https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
@@ -1356,5 +1351,6 @@ http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD10/tt0196229.
 http://15.235.9.200:14888/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png " group-title="Canais | ANIMES & GEEK",🔴Dragon Ball Z 24
 http://15.235.9.200:14885/
+
 
 
