@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://diariodorio.com/wp-content/uploads/2016/01/Antena-1.jpg"group-title="Radio" radio=true, Antena 1 SP*
+http://antena1.newradio.it/stream?1479613766876.aac
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-2gPQItOtgVQ/VmmjSLcbEZI/AAAAAAAAAOU/tfAs7IurbRA/s1600/antena1.png"group-title="Radio" radio=true, Antenna 1 França*
+http://s3.mediastreaming.it:7568/;16232861525289stream.nsv
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/582170439696416768/y9-gliXn.jpg"group-title="Radio" radio=true , Antenne Mv*
+http://streams.antennemv.de/antennemv-live/mp3-192/amv
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/object-images/3e8d6f7c528de37d226685bea03997fc.jpg"group-title="Radio" radio=true, Portugal Radio Amalia 92 FM - Fados
+http://centova.radios.pt:9496/stream?1486052891699.mp3
+#EXTINF:-1 tvg-logo=""group-title="Radio" radio=true, Portugal Radio Love Songs
+http://streaming.radioregional.pt:8058
+#EXTINF:-1 tvg-logo=""group-title="Radio" radio=true , Portugal Radio Renascença
+http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA_SC
+#EXTINF:-1 tvg-logo=""group-title="Radio" radio=true , Portugal Radio Top 80
+http://live.top80.fm:8086/
+#EXTINF:-1 tvg-logo=""group-title="Radio" radio=true, Portugal Radio TSF
+http://tsfdirecto.tsf.pt/tsfdirecto.mp3
+#EXTINF:-1 tvg-logo="http://images.viaway.com/111702_180.png"group-title="Radio" radio=true, Portugal Radio Ultra FM*
+http://centova.radios.pt:9506/;
+#EXTINF:-1 type="favorites" tvg-group="TV Aberta" tvg-logo="http://s16.postimg.org/axul05l4l/TV_Paran.jpg" , TV Paraná
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1 group-title="Internacionais",1-2-3 TV [Alemanha]
+http://123tv.cdn.ses-ps.com/index.m3u8
+#EXTINF:-1 group-title="Internacionais",Baden TV [Alemanha]
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+#EXTINF:-1 group-title="Internacionais",Canale 7 [Italia]
+http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
+#EXTINF:-1 group-title="Filmes e Series",Cine+
+http://189.86.89.116:80/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 group-title="Variedades",Conexao BR
+http://189.86.89.116:80/hls-live/livecx/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 group-title="Internacional" ,English: BT SPORT 1 HD
+http://portal.geniptv.com:8080/live/JELj3YBXB4/91pzzdxns2/370.ts
+#EXTINF:-1 group-title="Internacional" ,English: BT SPORT 2 HD
+http://portal.geniptv.com:8080/live/JELj3YBXB4/91pzzdxns2/368.ts
+#EXTINF:-1 group-title="Internacional" ,English: BT SPORT 3 FHD
+http://portal.geniptv.com:8080/live/JELj3YBXB4/91pzzdxns2/366.ts
+#EXTINF:-1 group-title="Internacional" ,Italian: PREMIUM SPORTS 2 HD
+http://portal.geniptv.com:8080/live/JELj3YBXB4/91pzzdxns2/312.ts
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RADIO" tvg-logo="http://cdn-radiotime-logos.tunein.com/s150758q.png" tvg-name=""radio=true,JOVEN PAM (Campinas)
+http://paineldj2.com.br:8200/
+#EXTINF:-1 group-title="Internacionais",Mir 24 [Russia]
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RADIO" tvg-logo="http://cdn-radiotime-logos.tunein.com/s152230q.png" tvg-name=""radio=true,MIX FM (Curitiba)
+http://vilhavelhafm.dnip.com.br:8060/
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RADIO" tvg-logo="" tvg-name=""radio=true,RADIO POP ROCK
+http://listen.rockradio.com/public3/poprock.pls
+#EXTINF:-1 group-title="Variedades",Super Radio Tupi
+http://cdn.rj.assocrj.com.br:80/live//tupi-estudio-video06/playlist.m3u8
