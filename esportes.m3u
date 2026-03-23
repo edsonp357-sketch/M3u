@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Rete 8 Sport" tvg-logo="https://i.imgur.com/uUAjWlF.png" tvg-country="IT" group-title="Italy",Rete 8 Sport
+https://64b16f23efbee.streamlock.net/rete8sport/rete8sport/playlist.m3u8
+#EXTINF:-1 tvg-name="M»Net Sport" tvg-logo="https://i.imgur.com/q3DV2gP.png" tvg-id="sport.mnet.mk" tvg-country="MK" group-title="North Macedonia",M»Net Sport
+http://ares.mnet.mk/hls/mnet-sport.m3u8
+#EXTINF:-1 tvg-name="XSport Ⓢ" tvg-logo="https://i.imgur.com/CHDcfrT.png" tvg-id="XSport.ua" tvg-country="UA" group-title="Ukraine",XSport Ⓢ
+http://cdnua05.hls.tv/946/hls/8743361621b245838bee193c9ec28322/3999/stream.m3u8
+#EXTINF:-1 tvg-name="Suspilne Sport" tvg-logo="https://i.imgur.com/16IhU0M.png" tvg-id="SuspilneSport.ua" tvg-country="UA" group-title="Ukraine",Suspilne Sport
+http://cdnua05.hls.tv/934/hls/8743361621b245838bee193c9ec28322/4856/stream.m3u8
+#EXTINF:-1 tvg-name="Sport2U" tvg-logo="https://i.imgur.com/WW0lNk1.png" group-title="VOD Italy",Sport2U
+https://stream9.xdevel.com/video0s976916-1685/stream/playlist_dvr.m3u8
+#EXTINF:-1 tvg-name="SportOutdoor.tv" tvg-logo="https://i.imgur.com/fwOuEBl.png" group-title="VOD Italy",SportOutdoor.tv
+https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Unbeaten Sports – Pluto TV" tvg-logo="https://i.imgur.com/UAiv612.png" group-title="VOD Italy",Unbeaten Sports – Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64c3b106dac71b00080a26d2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="Sport – Pluto TV" tvg-logo="https://i.imgur.com/o2psAYW.png" tvg-id="PlutoTVSportItaly.it" group-title="VOD Italy",Sport – Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608030eff4b6f70007e1684c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="br#sportv2-hd" tvg-name="SporTV 2 HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/SporTV%202.png" group-title="ESPORTES",SporTV 2 HD
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/2036
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 HD " tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN%20HD.png" group-title="ESPN",ESPN 4 HD
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/2122
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4" tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN%20HD.png" group-title="ESPN",ESPN 4
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/2121
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 Alternativo HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN.png" group-title="ESPN",ESPN 2 Alternativo HD
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1311
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN.png" group-title="ESPN",ESPN 3 HD
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/2103
+#EXTINF:-1 tvg-id="br#espn-hd" tvg-name="ESPN FHD " tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN%20Brasil%20HD.png" group-title="ESPN",ESPN FHD
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1883
+#EXTINF:-1 tvg-id="" tvg-name="Sporty Net 1 FHD" tvg-logo="https://i.postimg.cc/W1wCqCyV/Sporty-Net.png" group-title="ESPORTES PPV",Sporty Net 1 FHD
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/903009
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN 6 Alternativo HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN%20HD.png" group-title="ESPN",ESPN 6 Alternativo HD
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1310
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 FHD²" tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN%20HD.png" group-title="ESPN",ESPN 4 FHD²
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/13078
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV + HD " tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sport%20TV%20%2B.png" group-title="DESPORTO",Sport TV + HD
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/51993
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 2  HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sport%20TV%202.png" group-title="DESPORTO",Sport TV 2  HD
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1518
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 4" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sport%20TV%204.png" group-title="DESPORTO",Sport TV 4
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1525
+#EXTINF:-1 tvg-id="Sport.TV.7.HD.pt" tvg-name="Sport TV 7 FHD" tvg-logo="https://i.postimg.cc/Px8Xz7cr/Sport-TV.png" group-title="DESPORTO",Sport TV 7 FHD
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1271684
+#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" tvg-name="Sport TV 1 FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sport%20TV%201.png" group-title="DESPORTO",Sport TV 1 FHD
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1514
+#EXTINF:-1 tvg-id="Sport.TV.7.HD.pt" tvg-name="Sport TV 7 HD" tvg-logo="https://i.postimg.cc/Px8Xz7cr/Sport-TV.png" group-title="DESPORTO",Sport TV 7 HD
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1271685
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-605a309dc5acdc002c7a20aa" tvg-logo="https://i.imgur.com/oqT92nF.png" group-title="Esportes em inglês",FTF Sports | EUA 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=843
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QOZyeg6.png" group-title="Esportes em inglês",Swerve Sports | EUA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1555
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ndCkouf.png" tvg-id="13873" group-title="Esportes em inglês",Trace Sport Stars | Austrália
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
