@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://i.imgur.com/5IxIFJ0.png" tvg-id="DiscoveryChannel.it" tvg-country="IT" group-title="Italy",Discovery Channel
+https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8
+#EXTINF:-1 tvg-id="DiscoveryHomeHealth.br" tvg-name="Discovery Home&Health HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Discovery%20Home%20%26%20Health%20HD.png" group-title="DISCOVERY",Discovery Home&Health HD
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/2086
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Discovery%20World%20HD.png" group-title="DISCOVERY",Discovery World FHD
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1825
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97" tvg-logo="https://i.imgur.com/j3libxD.png" group-title="Documentários em inglês",True History | link 1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=72
